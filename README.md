@@ -25,7 +25,6 @@ To get started with learning PHP, follow these steps:
 git clone https://github.com/ISHWEENKHATRI/php_course
 ```
 
-
 2. **Set Up a Development Environment:** Install a web server (like Apache) and PHP on your machine. You can also use tools like XAMPP or WAMP, which provide a complete environment for PHP development.
 
 3. **Explore the Content:** Navigate through the repository's content to access tutorials, code examples, and exercises. Start from the basics and progressively move forward.
@@ -49,13 +48,33 @@ The repository includes practical examples that illustrate the concepts covered.
 
 ## Contributing
 
-Contributions to this repository are welcome and encouraged! If you find any errors, have suggestions for improvement, or want to add more content, please feel free to:
+Contributions to this repository are welcome and encouraged! If you find any errors, have suggestions for improvement, or want to add more content, please feel free to by following the below steps:
 
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes and commit them with descriptive commit messages.
-4. Push your changes to your fork.
-5. Open a pull request explaining your changes.
+1. Fork the repository to your GitHub account.
+2. Create a new branch for your changes:
+
+```
+git checkout -b feature/add-new-topic
+```
+
+
+3. Make your changes and commit them with descriptive commit messages:
+
+```
+git commit -m "Add explanation for variables"
+```
+
+4. Push your changes to your forked repository:
+
+```
+git push origin feature/add-new-topic
+```
+
+5. Create a pull request detailing your changes. We'll review your contribution and merge it if it aligns with the course's goals.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE), which means you're free to use, modify, and distribute the code and materials for personal and educational purposes.
 
 ## Resources
 
