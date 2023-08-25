@@ -10,6 +10,7 @@ Welcome to the "Introduction to PHP" repository! This repository is designed to 
 - [Examples](#examples)
 - [Contributing](#contributing)
 - [Resources](#resources)
+- [License](#license)
 
 ## Introduction
 
