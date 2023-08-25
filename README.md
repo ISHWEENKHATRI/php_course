@@ -21,7 +21,9 @@ To get started with learning PHP, follow these steps:
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
 
+```
 git clone https://github.com/ISHWEENKHATRI/php_course
+```
 
 
 2. **Set Up a Development Environment:** Install a web server (like Apache) and PHP on your machine. You can also use tools like XAMPP or WAMP, which provide a complete environment for PHP development.
